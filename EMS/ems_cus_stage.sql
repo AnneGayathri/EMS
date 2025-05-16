@@ -10,8 +10,6 @@ create table t_market_group_stage (marketgroupid int not null primary key auto_i
 refid2 varchar(100) unique);
 
 
-create table t_partner_stage (partnerid int not null primary key auto_increment, PName varchar(400) not null, RefId1 varchar(100) unique, RefId2 varchar(100) unique, 
-Identifier varchar(100) unique, ExternalId varchar(100) unique, BillingAddress varchar(200), ShippingAddress varchar(200));
 
 
 
