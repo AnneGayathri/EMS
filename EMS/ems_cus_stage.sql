@@ -10,15 +10,8 @@ create table t_market_group_stage (marketgroupid int not null primary key auto_i
 refid2 varchar(100) unique);
 
 
-create table t_partner_stage (partnerid int not null primary key auto_increment, PName varchar(400) not null, RefId1 varchar(100) unique, RefId2 varchar(100) unique, 
-Identifier varchar(100) unique, ExternalId varchar(100) unique, BillingAddress varchar(200), ShippingAddress varchar(200));
 
-load data infile 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\t_cus_stage_data.csv'
-into table t_cus_stage
-fields terminated by ','
-enclosed by '"'
-lines terminated by '\n'
-ignore 1 rows;
+
 
 select * from t_tmpl_attrs;
 select * from t_cus_stage;
