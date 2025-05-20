@@ -1,3 +1,4 @@
+-- Storedprocedure to export data from stage table to target tables 
 drop procedure if exists impcustomerdata;
 delimiter $$
 create procedure impcustomerdata()
