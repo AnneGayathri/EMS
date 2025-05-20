@@ -1,0 +1,21 @@
+CRMId,CName,CIdentifier,Description,RefId,ExternalId,address,region,country
+CRM45,David Clark,CUST_6667,Long term customer.,REFCUST_1,EXT12,Main St,California,USA
+CRM46,Holly Bailey,CUST_7363,Inactive,REFCUST_2,EXT13,Oak Ave,Ontario,Canada
+CRM47,Margaret Kelly,CUST_7678,New Customer,REFCUST_3,EXT14,Pine Rd,England,UK
+CRM48,Justin Dunn,CUST_2676,Prefer email communication.,REFCUST_4,EXT15,Park Lane,New South Wales,Australia
+CRM49,Melissa Ortega,CUST_7666,Long term customer.,REFCUST_5,EXT16,Rue de Paris,Île-de-France,France
+CRM50,Paul Ramirez,CUST_9057,Inactive,REFCUST_6,EXT17,Alexanderplatz,Berlin,Germany
+CRM51,Megan Steele,CUST_5235,New Customer,REFCUST_7,EXT18,Piazza Navona,Lazio,Italy
+CRM52,Jessica Fox,CUST_2988,Prefer email communication.,REFCUST_8,EXT19,Roppongi Hills,Tokyo,Japan
+CRM53,Glenn Villegas,CUST_9045,Long term customer.,REFCUST_9,EXT20,Red Square,Moscow,Russia
+CRM54,Adam Wilkins,CUST_4280,Inactive,REFCUST_10,EXT21,Copacabana Beach,Rio de Janeiro,Brazil
+CRM55,Christopher Anderson,CUST_2443,New Customer,REFCUST_11,EXT22,Plaza Mayor,Madrid,Spain
+CRM56,Laura Crawford,CUST_9260,Prefer email communication.,REFCUST_12,EXT23,Table Mountain,Western Cape,South Africa
+CRM57,Amanda Robinson,CUST_1779,Long term customer.,REFCUST_13,EXT24,Forbidden City,Beijing,China
+CRM58,Jeffery Porter,CUST_9829,Inactive,REFCUST_14,EXT25,Giza Necropolis,Cairo,Egypt
+CRM59,Kayla Wood,CUST_8049,New Customer,REFCUST_15,EXT26,Marina Bay Sands,Central Region,Singapore
+CRM60,Crystal Jackson,CUST_9078,Prefer email communication.,REFCUST_16,EXT27,Sultan Ahmed Mosque,Istanbul,Turkey
+CRM61,Joanne Bullock,CUST_4959,Long term customer.,REFCUST_17,EXT28,Patagonia Trail,Santa Cruz,Argentina
+CRM62,Rachel Cruz,CUST_6182,Inactive,REFCUST_18,EXT29,Mount Everest Base Camp,Himalayan Region,Nepal
+CRM63,Colleen Washington,CUST_9481,New Customer,REFCUST_19,EXT30,Niagara Falls,New York,USA
+CRM64,Tyler Bailey,CUST_4182,Prefer email communication.,REFCUST_20,EXT31,Christ the Redeemer,Rio de Janeiro,Brazil
